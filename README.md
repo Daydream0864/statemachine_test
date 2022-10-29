@@ -25,3 +25,9 @@ https://stately.ai/
 <img src="https://stately.ai/assets/statechart-640.webp"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+     
+##  statemachine_test section
+
+* toggle
+* Video player
+* animation
